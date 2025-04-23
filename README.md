@@ -1,6 +1,7 @@
 <div align="center">
   Hi! Welcome to my Github, I'm SadNap
-  ![Моя картинка](download.jpg)
 </div>
 
-
+<div align="center">
+  <img src="download.jpg" alt="Моя картинка">
+</div>
