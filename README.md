@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="download.jpg" alt="Моя картинка" width="200">
+  <img src="download.jpg" alt="Моя картинка" width="400">
 </div>
 
 ## 🛠️ Technologies:
