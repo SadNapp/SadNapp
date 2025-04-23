@@ -24,5 +24,3 @@ During the development process, I am using the following tools and frameworks:
 - **Tools:** **Swagger**, Docker
 
 The template used is ASP.NET Core MVC (to potentially add a UI in the future).
-
-Thank you in advance.
