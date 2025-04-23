@@ -7,6 +7,7 @@
 </div>
 
 🛠️ Skill:
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300ADD8.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
