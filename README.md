@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-!SadNapp/download.jpg
+![Моя картинка](download.jpg)
 
 Here are some ideas to get you started:
 
