@@ -6,6 +6,10 @@
   <img src="download.jpg" alt="Моя картинка">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadNap&layout=compact" alt="Most Used Languages" />
+</div>
+
 🛠️ Skill:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
