@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-!https://i.pinimg.com/736x/b5/47/62/b54762543d904431f06a3ad06e6b53dc.jpg
+!(https://i.pinimg.com/736x/b5/47/62/b54762543d904431f06a3ad06e6b53dc.jpg)
 
 Here are some ideas to get you started:
 
