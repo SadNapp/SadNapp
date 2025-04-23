@@ -2,7 +2,10 @@
   Hi! Welcome to my Github, I'm SadNap
 </div>
 
-  ![Моя картинка](download.jpg)
+<div align="center">
+ ![Моя картинка](download.jpg)
+</div>
+  
 
 Here are some ideas to get you started:
 
