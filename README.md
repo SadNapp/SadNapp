@@ -1,4 +1,4 @@
-<div align="center"style="font-size: 2em;">
+<div align="center"style="font-size: 5em;">
   <b>Hi! Welcome to my Github, I'm SadNap</b>
 </div>
 
