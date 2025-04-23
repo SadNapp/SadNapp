@@ -5,7 +5,7 @@
 <div align="center">
   <img src="download.jpg" alt="Моя картинка">
 </div>
-
+##
 🛠️ Skill:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -15,6 +15,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
+👨‍💻Work:
 Currently working on the **AuctionSystem** project for **C# BackEnd** Intern-Junior level practice, utilizing **Swagger** for API documentation, **Redis** for caching/data storage, and **Docker** for containerization.
 
 During the development process, I am using the following tools and frameworks:
@@ -25,5 +26,8 @@ During the development process, I am using the following tools and frameworks:
 
 The template used is ASP.NET Core MVC (to potentially add a UI in the future).
 
-## Achievements
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Drink coffee!" width="60">
+🌱learning:
+- EF core, SQL, Redis all about BackEnd
+- In the future, I plan to start learning C++ and Java.
+🔥 Most used languages:
+- So far only C#)
