@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-![Логотип](images/logo.png)
+![Моя картинка](download.jpg)
 </div>
