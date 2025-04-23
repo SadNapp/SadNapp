@@ -1,5 +1,5 @@
-<div align="center">
-  Hi! Welcome to my Github, I'm SadNap
+<div align="center"style="font-size: 2em;">
+  <b>Hi! Welcome to my Github, I'm SadNap</b>
 </div>
 
 <div align="center">
