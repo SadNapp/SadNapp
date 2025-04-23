@@ -28,6 +28,7 @@ The template used is ASP.NET Core MVC (to potentially add a UI in the future).
 
 🌱learning:
 - EF core, SQL, Redis all about BackEnd
-- In the future, I plan to start learning C++ and Java.
+- In the future, I plan to start learning C++ and Java
+  
 🔥 Most used languages:
 - So far only C#)
