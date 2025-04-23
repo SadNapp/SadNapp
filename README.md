@@ -24,3 +24,6 @@ During the development process, I am using the following tools and frameworks:
 - **Tools:** **Swagger**, Docker
 
 The template used is ASP.NET Core MVC (to potentially add a UI in the future).
+
+
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Drink coffee!" width="60">
