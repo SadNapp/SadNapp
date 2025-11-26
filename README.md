@@ -14,24 +14,30 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23CABB3C?style=for-the-badge&logo=swagger&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## 👨‍💻 Work:
+## 💼 ДОСВІД РОЗРОБКИ (Professional Experience)
 
-Currently working on the **AuctionSystem** project for **C# BackEnd** Intern-Junior level practice, utilizing **Swagger** for API documentation, **Redis** for caching/data storage, and **Docker** for containerization.
+Загальний досвід: 1.5 роки розробки на C#/.NET.
+1. Startup: Web-маркетплейс (6 місяців): Backend-розробка, PostgreSQL, Redis, Swagger, Docker.
+2. Фріланс/Проєкти: Сайт для Тату-салону (4-5 місяців): Створення RESTful API, CRUD-операції. 
+3. Інді-команда: Розробка ігор на Unity (7 місяців): Глибоке знання C# та ООП, командна робота.
+4. Фріланс/Проєкти: Самостійна реалізація завдань, які підходять для стеку C#/.NET.
 
-During the development process, I am using the following tools and frameworks:
-
-- **BackEnd:** C# / .NET, Entity Framework Core, PostgreSQL, **Redis**
-- **FrontEnd:** JavaScript (JS), HTML, CSS, Razor Pages / Razor Components
-- **Tools:** Swagger, Docker
-
-The template used is ASP.NET Core MVC (to potentially add a UI in the future).
+🛠️ ТЕХНІЧНИЙ СТЕК (Tech Stack)
+КатегоріяТехнології та Інструменти
+Основна моваC# (ООП)
+Фреймворк/ORM.NET (Core/5+), Entity Framework
+Бази даних PostgreSQL (основний досвід), SQL, MongoDB (базово)
+API/Протоколи RESTful API, Swagger, JSON
+Інструменти GIT, Redis (базове кешування), Docker (базове знайомство)
+Desktop/UI WPF, XAML, Windows Forms, Unity
+Вивчаю Python, ASP.NET Core
 
 ## 🌱 Learning:
 
 - EF Core
 - SQL
 - Redis (all about BackEnd)
-- In the future, I plan to start learning C++ and Java.
+- In the future, I plan to start learning C++, Java, Python.
 
 ## 🔥 Most Used Languages:
 
