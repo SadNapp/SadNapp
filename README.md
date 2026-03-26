@@ -30,7 +30,7 @@
 * **Web-маркетплейс (Startup):** Комерційний досвід роботи з PostgreSQL та API-логікою.
 * **Інді-команда:** 7 місяців роботи над іграми (Unity) та досвід роботи з **WPF/XAML** для Desktop-застосунків.
 
-###🛠 Tech Stack
+## 🛠 Tech Stack
 Backend & Core
 Languages & Frameworks: C# / .NET 8+, ASP.NET Core Web API
 Data Access: Entity Framework Core (EF Core), LINQ
