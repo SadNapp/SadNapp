@@ -33,15 +33,15 @@
 ## 🛠 Tech Stack
 
 Backend & Core
-# **Languages & Frameworks:** C# / .NET 8+, ASP.NET Core Web API
-# **Data Access:** Entity Framework Core (EF Core), LINQ
-# **Databases:** PostgreSQL, SQL
-# **Logging:** Serilog (виправлено назву з SergLog)
-# **DevOps & Tools**
-# **Containerization:** Docker, Docker Compose
-# **API Testing & Documentation:** Swagger (OpenAPI), Postman
-# **Version Control:** Git, GitHub
-# **OS:** Windows, Linux (Ubuntu)
-# **Desktop** (UI)
-# **Cross-platform:** Avalonia UI
-# **Windows-specific:** WPF (XAML), WinForms
+* **Languages & Frameworks:** C# / .NET 8+, ASP.NET Core Web API
+* **Data Access:** Entity Framework Core (EF Core), LINQ
+* **Databases:** PostgreSQL, SQL
+* **Logging:** Serilog (виправлено назву з SergLog)
+* **DevOps & Tools**
+* **Containerization:** Docker, Docker Compose
+* **API Testing & Documentation:** Swagger (OpenAPI), Postman
+* **Version Control:** Git, GitHub
+* **OS:** Windows, Linux (Ubuntu)
+* **Desktop** (UI)
+* **Cross-platform:** Avalonia UI
+* **Windows-specific:** WPF (XAML), WinForms
