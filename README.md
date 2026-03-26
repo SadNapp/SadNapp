@@ -18,7 +18,7 @@
 
 ### C# BACKEND DEVELOPER (1.5 years of experience)
 
-##🏢Key areas of expertise:##
+## 🏢Key areas of expertise:
 
 * **Experience:** Backend Developer (Startup Project)
 * **API Development:** Development of REST controllers and services for business logic (marketplace platform).
