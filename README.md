@@ -32,17 +32,23 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Skills
 
-### Backend & Core
-* **Languages & Frameworks:** C# / .NET 8+, ASP.NET Core Web API
-* **Data Access:** Entity Framework Core (EF Core), LINQ
-* **Databases:** PostgreSQL, SQL
-* **Logging:** Serilog
-* **DevOps & Tools:** Docker, Docker Compose, Git, GitHub
-* **API Testing:** Swagger (OpenAPI), Postman
-* **OS:** Windows, Linux (Ubuntu)
+### 🖥️ Backend Development
+* **Languages:** `C#`, `.NET 8+`, `TypeScript` (Learning 📚)
+* **Frameworks:** `ASP.NET Core Web API`
+* **Data Access:** `Entity Framework Core`, `LINQ`
+* **Databases:** `PostgreSQL`, `MS SQL Server` (Learning 📚), `SQLite`
 
-### Desktop (UI)
-* **Cross-platform:** Avalonia UI
-* **Windows-specific:** WPF (XAML), WinForms
+### 🎨UI Development
+* **Desktop:** `Avalonia UI` (Cross-platform), `WPF` (XAML), `WinForms`
+
+### ⚙️ DevOps & Infrastructure
+* **Containers:** `Docker`, `Docker Compose`
+* **Version Control:** `Git`, `GitHub` (Actions/CI)
+* **OS:** `Linux (Ubuntu)`, `Windows`
+
+### 🧪 Tools & Logging
+* **API Testing:** `Swagger (OpenAPI)`, `Postman`
+* **Logging:** `Serilog`
+* **Database Tools:** `DBeaver`, `SQL Server Management Studio`, `PgAdmin`
