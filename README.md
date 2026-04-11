@@ -52,7 +52,7 @@
 
 ## 💼 Experience & Projects
 
-### 🛠 C# Backend Developer (1.5 years experience)
+### 🛠 C# Backend Developer 
 
 * **Backend Developer (Startup Marketplace)**
     * **API Development:** Built RESTful controllers and business logic services.
