@@ -69,7 +69,7 @@
 ## 📸 Atmosphere
 <div align="center">
   <img src="download.jpg" alt="Profile Banner" width="450" style="border-radius: 15px; border: 2px solid #30363d;">
-  <p><i>Building digital worlds, one line of code at a time.</i></p>
+  <p><i>Sometimes I dream of saving the world.</i></p>
 </div>
 
 ---
