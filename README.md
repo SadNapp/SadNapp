@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="download.jpg" alt="Profile Banner" width="350">
+  <img src="download.png" alt="Profile Banner" width="350">
 </div>
 
 <p align="center">
