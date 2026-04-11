@@ -34,18 +34,23 @@
 
 ## 🛠 Tech Stack & Skills
 
-###🖥️Backend Development
-* **Languages:** `C#`, `.NET 8+`, `TypeScript` (Learning 📚)
-* **Frameworks:** `ASP.NET Core Web API`
-* **Data Access:** `Entity Framework Core`, `LINQ`, `Dapper`
-* **Databases:** `PostgreSQL`, `MS SQL Server` (Learning 📚), `SQLite`
-###🎨UI Development
-* **Desktop:** `Avalonia UI` (Cross-platform), `WPF` (XAML), `WinForms`
-###⚙️DevOps & Infrastructure
-* **Containers:** `Docker`, `Docker Compose`
-* **Version Control:** `Git`, `GitHub` (Actions/CI)
-* **OS:** `Linux (Ubuntu)`, `Windows`
-###🧪Tools & Logging
-* **API Testing:** `Swagger (OpenAPI)`, `Postman`
-* **Logging:** `Serilog`
-* **Database Tools:** `DBeaver`, `SQL Server Management Studio`, `PgAdmin`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Backend & Core</h3>
+      <ul>
+        <li><b>Languages:</b> C#, .NET 8+, TypeScript 📚</li>
+        <li><b>Frameworks:</b> ASP.NET Core Web API</li>
+        <li><b>ORM:</b> EF Core, LINQ, Dapper</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗄️ Databases & OS</h3>
+      <ul>
+        <li><b>SQL:</b> PostgreSQL, MS SQL 📚, SQLite</li>
+        <li><b>OS:</b> Linux (Ubuntu), Windows</li>
+        <li><b>DevOps:</b> Docker, Docker Compose</li>
+      </ul>
+    </td>
+  </tr>
+</table>
