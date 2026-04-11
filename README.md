@@ -8,8 +8,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadNapp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadNapp&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SadNapp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadNapp&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -30,16 +30,13 @@
 
 ---
 
-## 📚 Currently Learning (Active Focus)
-*I am currently expanding my stack towards Fullstack development and enterprise databases.*
+## 📚 Currently Learning
+*Focused on expanding my expertise in enterprise databases and modern frontend.*
 
 <p align="left">
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-  <a href="https://www.microsoft.com/sql-server">
-    <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL" />
-  </a>
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
@@ -50,24 +47,22 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Backend & Core</h3>
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
       <ul>
-        <li><b>ORM:</b> EF Core, Dapper, LINQ</li>
+        <li><b>Languages:</b> C#, .NET 8+</li>
         <li><b>Frameworks:</b> ASP.NET Core Web API</li>
+        <li><b>Data Access:</b> EF Core, LINQ, Dapper</li>
+        <li><b>Databases:</b> PostgreSQL, SQL</li>
         <li><b>Logging:</b> Serilog</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 UI & Infrastructure</h3>
-      <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Swagger-CABB3C?style=flat-square&logo=swagger&logoColor=white" /><br>
+      <h3>⚙️ Infrastructure & UI</h3>
       <ul>
+        <li><b>Containers:</b> Docker, Docker Compose</li>
+        <li><b>Tools:</b> Swagger, Postman, DBeaver, SSMS</li>
         <li><b>Desktop:</b> Avalonia UI, WPF, WinForms</li>
         <li><b>Web:</b> React.js (Vite)</li>
-        <li><b>Tools:</b> Postman, DBeaver, SSMS</li>
+        <li><b>OS:</b> Linux (Ubuntu), Windows</li>
       </ul>
     </td>
   </tr>
@@ -75,9 +70,9 @@
 
 ---
 
-## 🐍 Activity
+## 📈 Activity & Streak
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/github-streak-stats?username=SadNapp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadNapp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
