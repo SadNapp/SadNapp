@@ -3,40 +3,12 @@
   <p><b>Junior Backend Developer | C# .NET Enthusiast</b></p>
 </div>
 
-<div align="center">
-  <img src="download.png" alt="Profile Banner" width="350">
-</div>
+---
 
+## 📈 Activity & Statistics
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadNapp&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
   <img src="https://github-readme-stats.vercel.app/api?username=SadNapp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadNapp&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-## 💼 Experience & Projects
-
-### 🛠 C# Backend Developer (1.5 years experience)
-
-* **Backend Developer (Startup Marketplace)**
-    * **API Development:** Built RESTful controllers and business logic services.
-    * **Database:** Designed schemas and managed migrations using **EF Core**.
-    * **Teamwork:** Active collaboration via Git and agile-like workflows.
-    * **QA:** Integrated **Swagger** and performed extensive testing with **Postman**.
-
-* **Unity Developer (Indie Studio)**
-    * **Gameplay Mechanics:** Developed movement, combat, and interaction systems.
-    * **Mobile:** Shipped game mechanics for the Android (Play Market) platform.
-
----
-
-## 📚 Currently Learning
-*Focused on expanding my expertise in enterprise databases and modern frontend.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
@@ -68,12 +40,37 @@
   </tr>
 </table>
 
+### 📚 Currently Learning
+*Expanding my stack with enterprise data solutions and modern frontend.*
+<p align="left">
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
 ---
 
-## 📈 Activity & Streak
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadNapp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## 💼 Experience & Projects
+
+### 🛠 C# Backend Developer (1.5 years experience)
+
+* **Backend Developer (Startup Marketplace)**
+    * **API Development:** Built RESTful controllers and business logic services.
+    * **Database:** Designed schemas and managed migrations using **EF Core**.
+    * **Teamwork:** Active collaboration via Git and agile-like workflows.
+    * **QA:** Integrated **Swagger** and performed extensive testing with **Postman**.
+
+* **Unity Developer (Indie Studio)**
+    * **Gameplay Mechanics:** Developed movement, combat, and interaction systems.
+    * **Mobile:** Shipped game mechanics for the Android platform.
+
+---
+
+## 📸 Atmosphere
+<div align="center">
+  <img src="download.jpg" alt="Profile Banner" width="450" style="border-radius: 15px; border: 2px solid #30363d;">
+  <p><i>Building digital worlds, one line of code at a time.</i></p>
+</div>
 
 ---
 
