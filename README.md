@@ -23,7 +23,7 @@
         <li><b>Languages:</b> C#, .NET 8+</li>
         <li><b>Frameworks:</b> ASP.NET Core Web API</li>
         <li><b>Data Access:</b> EF Core, LINQ, Dapper</li>
-        <li><b>Databases:</b> PostgreSQL, SQL</li>
+        <li><b>Databases:</b> PostgreSQL, SQL, MS SQL</li>
         <li><b>Logging:</b> Serilog</li>
       </ul>
     </td>
