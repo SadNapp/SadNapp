@@ -1,8 +1,3 @@
-<div align="center">
-  <h1>👋 Hi! I'm Daniil (SadNapp)</h1>
-  <p><b>Backend Developer | C# .NET Enthusiast</b></p>
-</div>
-
 ---
 
 ## 📈 Activity & Statistics
