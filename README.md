@@ -34,15 +34,10 @@
     </td>
   </tr>
 </table>
-
 ---
-
 ## 💼 Experience & Projects
-
 ### 🛠 C# Backend Developer 
-
 * **Backend Developer (Startup Marketplace)**
 * **.NET/C# Developer (Outsourcing/Outstaffing)**
 * **Backend Developer (Startup)**
 * **Unity Developer (Indie Studio)**
-    
