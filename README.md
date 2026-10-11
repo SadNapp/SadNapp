@@ -34,10 +34,10 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 💼 Experience & Projects
-
 ### 🛠 C# Backend Developer
 
 * **Backend Developer (Startup Marketplace)**
