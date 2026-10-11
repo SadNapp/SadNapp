@@ -35,6 +35,7 @@
   </tr>
 </table>
 ---
+
 ## 💼 Experience & Projects
 
 ### 🛠 C# Backend Developer
