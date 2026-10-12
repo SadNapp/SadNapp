@@ -39,7 +39,6 @@
 
 ## 💼 Experience & Projects
 ### 🛠 C# Backend Developer
-
 * **Backend Developer (Startup Marketplace)**
 * **.NET/C# Developer (Outsourcing/Outstaffing)**
 * **Backend Developer (Startup)**
