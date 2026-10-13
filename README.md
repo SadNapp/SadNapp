@@ -26,7 +26,7 @@
       <h3>⚙️ Infrastructure & UI</h3>
       <ul>
         <li><b>Containers:</b> Docker, Docker Compose</li>
-        <li><b>Tools:</b> Swagger, BrunoAPI</li>
+        <li><b>Tools:</b> Swagger, BrunoAPI, Postman</li>
         <li><b>Desktop:</b> Avalonia UI, WPF, WinForms, WinUI</li>
         <li><b>Web:</b> Vanila.js</li>
         <li><b>OS:</b> Linux (Ubuntu), Windows</li>
