@@ -20,6 +20,7 @@
         <li><b>Data Access:</b> EF Core, LINQ, Dapper</li>
         <li><b>Databases:</b> PostgreSQL, SQL</li>
         <li><b>Logging:</b> Serilog</li>
+        <li><b>Testing:</b> NUnit/XUnit</li>
       </ul>
     </td>
     <td width="50%" valign="top">
